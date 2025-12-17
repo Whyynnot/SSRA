@@ -1,4 +1,8 @@
 # README
+Codes for "Semi-Supervised Synthetic Data Generation with Fine-Grained Relevance Control for Short Video Search Relevance Modeling".
+
+Our paper is available at: https://arxiv.org/abs/2509.16717
+
 ## Training Model
 
 ```bash
